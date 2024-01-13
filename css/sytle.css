@@ -1,0 +1,39 @@
+.logo{
+width: 60px;
+}
+.bottom_heading{
+    width: 100%;
+    margin: 60px 0;
+}
+.bottom_heading h2{
+    font-size: 2.8rem;
+    font-weight: 800;
+}
+.head-image{
+    width: 95%;
+    margin: 0 auto;
+}
+.head-image img{
+    height: 600px;
+    object-fit: cover;
+    border-radius: 15px;
+}
+.bottom-data{
+margin-top: 20px;
+}
+.data_heading h3{
+font-size: 2rem;
+}
+.data_heading{
+    margin-bottom: 20px;
+}
+.para  p{
+    width: 95%;
+    text-align: center;
+    word-wrap: break-word;
+    font-size: 1rem;
+    line-height: 23px;
+}
+.image2{
+    margin-top: 100px;
+}
